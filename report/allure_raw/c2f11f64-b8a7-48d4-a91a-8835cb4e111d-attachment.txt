@@ -1,0 +1,1 @@
+{'code': 0, 'msg': 'success!', 'data': {'id': 19005, 'create_time': '2022-02-09 16:30:33', 'update_time': '2022-02-09 16:30:33', 'goodscode': 'sp_1644395431', 'goodsname': '中文', 'merchantid': '12', 'merchantname': '', 'goodsprice': 0.0, 'stock': 0, 'goodsgroupid': 0, 'goodsstatus': 1, 'price': 0.0}}

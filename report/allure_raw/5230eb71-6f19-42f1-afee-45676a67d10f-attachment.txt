@@ -1,0 +1,1 @@
+{'code': 2000, 'msg': 'testcva用户已被注册', 'data': {}}
