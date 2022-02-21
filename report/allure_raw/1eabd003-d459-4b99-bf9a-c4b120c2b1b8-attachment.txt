@@ -1,4 +1,0 @@
-商品id是： 19007
-修改之前的商品名称是： 《selenium 入门到精通12》
-{'code': 0, 'msg': 'success!', 'data': {'id': 19007, 'create_time': '2022-02-09 16:30:38', 'update_time': '2022-02-09 16:30:41', 'goodscode': 'sp_1644395438', 'goodsname': '商品名称', 'merchantid': '12', 'merchantname': '', 'goodsprice': 0.0, 'stock': 0, 'goodsgroupid': 0, 'goodsstatus': 1, 'price': 0.0}}
-修改之后的商品名称是: 商品名称
